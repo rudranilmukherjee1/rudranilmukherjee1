@@ -116,9 +116,9 @@ Currently exploring how AI can be integrated with **embedded systems and real-wo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rudranilmukherjee1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudranilmukherjee1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -128,7 +128,7 @@ Currently exploring how AI can be integrated with **embedded systems and real-wo
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rudranilmukherjee1&theme=tokyonight&hide_border=true" />
 
 </div>
 
