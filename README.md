@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Main Banner Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=121420&height=220&section=header&text=Rudranil%20Mukherjee&fontSize=50&fontAlignY=38&desc=%3E_%20ECE%20Undergraduate%20%7C%20VLSI%20%26%20Embedded%20Systems%20%7C%20AI&descAlignY=62&descFontSize=18&textColor=ffffff&descColor=ffffff" width="100%" />
+  <!-- Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Rudranil%20Mukherjee&fontSize=50&fontAlignY=38&desc=%3E_%20ECE%20Undergraduate%20%7C%20VLSI%20%26%20Embedded%20Systems%20%7C%20AI%20Enthusiast&descAlignY=62&descFontSize=18" width="100%" />
 
   <br />
 
-  <!-- Monospace Subtitle Line -->
+  <!-- Subtitle Text -->
   <h3>
     <code>C++</code> &nbsp;|&nbsp; 
     <code>Verilog</code> &nbsp;|&nbsp; 
@@ -15,11 +15,10 @@
 
   <br />
 
-  <!-- Pixel Art Animation Banner -->
+  <!-- Pixel Art Banner -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 </div>
-
 
 
 # 👋 Hi, I'm Rudranil Mukherjee
