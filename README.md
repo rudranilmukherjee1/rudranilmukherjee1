@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 # 👋 Hi, I'm Rudranil Mukherjee
 
@@ -127,24 +127,15 @@ Currently exploring how AI can be integrated with **embedded systems and real-wo
 `Git` • `GitHub` • `VS Code` • `Linux`
 
 
-# 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats & Contributions</h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rudranilmukherjee1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudranilmukherjee1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-
+  <img src="https://github-readme-stats.oxro.onrender.com/api?username=rudranilmukherjee1&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.oxro.onrender.com/api/top-langs/?username=rudranilmukherjee1&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
----
 
-## 🔥 Contribution Streak
+<br />
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rudranilmukherjee1&theme=tokyonight&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=rudranilmukherjee1&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </div>
-
----
-
