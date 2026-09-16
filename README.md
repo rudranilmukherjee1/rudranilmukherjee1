@@ -1,4 +1,18 @@
-  <div align="center">
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Rudranil%20Mukherjee&fontSize=50&fontAlignY=38" width="100%" />
+
+  <br />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=ECE+Undergraduate+%40+IEM+Kolkata;VLSI+%26+Semiconductor+Enthusiast;Embedded+Systems+%26+Edge+AI;C%2B%2B+%7C+Verilog+%7C+Embedded+C+%7C+Python" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+</div>
 
 # 👋 Hi, I'm Rudranil Mukherjee
 
