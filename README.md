@@ -1,19 +1,30 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=Rudranil%20Mukherjee&fontSize=48&fontAlignY=38&desc=%3E_%20ECE%20Undergraduate%20%7C%20VLSI%20%26%20Embedded%20Systems%20%7C%20AI&descAlignY=62&descFontSize=18" width="100%" />
+  <h1>👋 Hi, I'm Rudranil Mukherjee</h1>
 
-  <br />
-
+  <!-- Typing Animated Subtitle -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=B.Tech+ECE+Undergraduate;VLSI+%26+Semiconductor+Enthusiast;Embedded+Systems+%26+Edge+AI;C%2B%2B+%7C+Verilog+%7C+Embedded+C+%7C+Python" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
+  <!-- Retro Pixel Art Workspace Banner -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-</div>
+  <br /><br />
 
+  <!-- Social Badges -->
+  <p>
+    <a href="YOUR_LINKEDIN_URL">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:your-email@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+</div>
 # 👋 Hi, I'm Rudranil Mukherjee
 
 ### ⚡ ECE Undergraduate | VLSI & Semiconductor Enthusiast | Embedded Systems | Software
