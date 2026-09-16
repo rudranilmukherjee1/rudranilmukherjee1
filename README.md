@@ -1,9 +1,8 @@
 <div align="center">
   <img src="banner.png" width="100%" alt="Rudranil Mukherjee Professional Banner" />
 
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Rudranil%20Mukherjee&fontSize=50&fontAlignY=38&desc=%3E_%20ECE%20Undergraduate%20%7C%20VLSI%20%26%20Embedded%20Systems%20%7C%20AI%20Enthusiast&descAlignY=62&descFontSize=18" width="100%" />
 
+ 
   <br />
 
   <!-- Subtitle Text -->
