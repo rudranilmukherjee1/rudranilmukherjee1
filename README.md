@@ -1,25 +1,85 @@
 <div align="center">
-
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Rudranil%20Mukherjee&fontSize=50&fontAlignY=38&desc=%3E_%20ECE%20Undergraduate%20%7C%20VLSI%20%26%20Embedded%20Systems%20%7C%20AI%20Enthusiast&descAlignY=62&descFontSize=18" width="100%" />
-
-  <br />
-
-  <!-- Subtitle Text -->
-  <h3>
-    <code>C++</code> &nbsp;|&nbsp; 
-    <code>Verilog</code> &nbsp;|&nbsp; 
-    <code>Embedded C</code> &nbsp;|&nbsp; 
-    <code>Python</code>
-  </h3>
-
-  <br />
-
-  <!-- Pixel Art Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
+  <svg width="100%" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#2ecc71;stop-opacity:1" />
+      </linearGradient>
+      <style>
+        @keyframes pulse {
+          0%, 100% { opacity: 0.3; }
+          50% { opacity: 1; }
+        }
+        @keyframes flow {
+          0% { offset-distance: 0%; }
+          100% { offset-distance: 100%; }
+        }
+        .pulse-node { animation: pulse 2s infinite; }
+        .text-main { font-size: 48px; font-weight: bold; font-family: 'Courier New'; }
+        .text-sub { font-size: 18px; font-family: 'Courier New'; }
+      </style>
+    </defs>
+    
+    <!-- Circuit Grid Background -->
+    <g opacity="0.1" stroke="#3498db" stroke-width="0.5">
+      <line x1="50" y1="0" x2="50" y2="300" />
+      <line x1="100" y1="0" x2="100" y2="300" />
+      <line x1="150" y1="0" x2="150" y2="300" />
+      <line x1="200" y1="0" x2="200" y2="300" />
+      <line x1="250" y1="0" x2="250" y2="300" />
+      <line x1="300" y1="0" x2="300" y2="300" />
+      <line x1="350" y1="0" x2="350" y2="300" />
+      <line x1="400" y1="0" x2="400" y2="300" />
+      <line x1="450" y1="0" x2="450" y2="300" />
+      <line x1="500" y1="0" x2="500" y2="300" />
+      <line x1="550" y1="0" x2="550" y2="300" />
+      <line x1="600" y1="0" x2="600" y2="300" />
+      <line x1="650" y1="0" x2="650" y2="300" />
+      <line x1="700" y1="0" x2="700" y2="300" />
+      <line x1="750" y1="0" x2="750" y2="300" />
+      
+      <line x1="0" y1="50" x2="800" y2="50" />
+      <line x1="0" y1="100" x2="800" y2="100" />
+      <line x1="0" y1="150" x2="800" y2="150" />
+      <line x1="0" y1="200" x2="800" y2="200" />
+      <line x1="0" y1="250" x2="800" y2="250" />
+    </g>
+    
+    <!-- Neural Network Nodes (Left) -->
+    <circle cx="100" cy="80" r="4" fill="url(#grad1)" class="pulse-node" />
+    <circle cx="100" cy="150" r="4" fill="url(#grad1)" class="pulse-node" />
+    <circle cx="100" cy="220" r="4" fill="url(#grad1)" class="pulse-node" />
+    
+    <!-- Hidden Layer -->
+    <circle cx="250" cy="60" r="4" fill="url(#grad1)" class="pulse-node" />
+    <circle cx="250" cy="120" r="4" fill="url(#grad1)" class="pulse-node" />
+    <circle cx="250" cy="180" r="4" fill="url(#grad1)" class="pulse-node" />
+    <circle cx="250" cy="240" r="4" fill="url(#grad1)" class="pulse-node" />
+    
+    <!-- Output Layer (Right) -->
+    <circle cx="400" cy="100" r="4" fill="url(#grad1)" class="pulse-node" />
+    <circle cx="400" cy="200" r="4" fill="url(#grad1)" class="pulse-node" />
+    
+    <!-- Connecting Lines (Neural Network Edges) -->
+    <line x1="100" y1="80" x2="250" y2="60" stroke="url(#grad1)" stroke-width="1" opacity="0.3" />
+    <line x1="100" y1="80" x2="250" y2="120" stroke="url(#grad1)" stroke-width="1" opacity="0.3" />
+    <line x1="100" y1="150" x2="250" y2="180" stroke="url(#grad1)" stroke-width="1" opacity="0.3" />
+    <line x1="100" y1="220" x2="250" y2="240" stroke="url(#grad1)" stroke-width="1" opacity="0.3" />
+    
+    <line x1="250" y1="60" x2="400" y2="100" stroke="url(#grad1)" stroke-width="1" opacity="0.3" />
+    <line x1="250" y1="120" x2="400" y2="100" stroke="url(#grad1)" stroke-width="1" opacity="0.3" />
+    <line x1="250" y1="180" x2="400" y2="200" stroke="url(#grad1)" stroke-width="1" opacity="0.3" />
+    <line x1="250" y1="240" x2="400" y2="200" stroke="url(#grad1)" stroke-width="1" opacity="0.3" />
+    
+    <!-- Text -->
+    <text x="400" y="270" text-anchor="middle" class="text-main" fill="url(#grad1)">
+      Arpan Kumar Sahoo
+    </text>
+    <text x="400" y="295" text-anchor="middle" class="text-sub" fill="#3498db">
+      ECE | Embedded Systems | AI/ML | VLSI
+    </text>
+  </svg>
 </div>
-
 
 # 👋 Hi, I'm Rudranil Mukherjee
 
