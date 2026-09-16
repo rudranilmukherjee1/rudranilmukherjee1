@@ -1,16 +1,31 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Rudranil%20Mukherjee&fontSize=50&fontAlignY=38" width="100%" />
+  <!-- Animated GIF Header Banner with Text Overlay -->
+  <svg viewBox="0 0 1000 280" width="100%" height="280" xmlns="http://www.w3.org/2000/svg">
+    <!-- Animated Pixel Art Background -->
+    <foreignObject x="0" y="0" width="1000" height="280">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; overflow: hidden;">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; height: 100%; object-fit: cover; filter: brightness(0.45);" />
+      </div>
+    </foreignObject>
 
-  <br />
+    <!-- Overlay Text -->
+    <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="46" font-weight="800">
+      Rudranil Mukherjee
+    </text>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=ECE+Undergraduate+%40+IEM+Kolkata;VLSI+%26+Semiconductor+Enthusiast;Embedded+Systems+%26+Edge+AI;C%2B%2B+%7C+Verilog+%7C+Embedded+C+%7C+Python" alt="Typing SVG" />
-  </a>
+    <!-- Overlay Subtitle -->
+    <text x="50%" y="68%" dominant-baseline="middle" text-anchor="middle" fill="#00E5FF" font-family="'Fira Code', monospace" font-size="20" font-weight="600">
+      &gt;_ ECE | VLSI &amp; Embedded Systems | Edge AI
+    </text>
+  </svg>
 
   <br /><br />
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <!-- Animated Typing Line Below Banner -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=B.Tech+ECE+Undergraduate;VLSI+%26+Semiconductor+Enthusiast;Embedded+Systems+%26+Edge+AI;C%2B%2B+%7C+Verilog+%7C+Embedded+C+%7C+Python" alt="Typing SVG" />
+  </a>
 
 </div>
 
